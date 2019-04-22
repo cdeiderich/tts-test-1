@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 Hello, world!
-sdfjndskj
-jdngfdkjj
-=======
-Hello, world!
->>>>>>> parent of 5c54881... added line 2
